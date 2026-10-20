@@ -1,0 +1,6 @@
+{
+  "name": "ApexFire Pro - Free Fire PC Control Panel & Optimizer",
+  "description": "Professional Free Fire PC tuning panel featuring emulator sensitivity & X/Y lab, pro player presets, drag-headshot aim trainer, keymapping studio, 120 FPS optimizer, and tournament tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
